@@ -1,9 +1,4 @@
 /* ./src/index.css */
 @tailwind base;
-@layer base {
-  button:focus {
-    outline: inherit;
-  }
-}
 @tailwind components;
 @tailwind utilities;
